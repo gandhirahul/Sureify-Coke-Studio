@@ -1,10 +1,8 @@
 Sureify — Coke Studio
 
-I have uploaded the code on Github. 
-You can check it here : https://github.com/gandhirahul/Sureify-Coke-Studio.git
-
-Also, I have deployed the application on heroku. 
-You can review it here: https://rahulgandhi38-sureify.herokuapp.com/
+I have deployed the application on heroku. 
+You can review it here: http://rahulgandhi38-sureify.herokuapp.com/
+(It doesn't works on https, as the API which I am using doesn't uses https.)
 
 A Frontend application build with ReactJS which lists and plays best coke studio songs.
 It has two pages:
