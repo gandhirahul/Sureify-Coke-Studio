@@ -39,7 +39,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "start": "gulp watch;npm start"
+    "start": "gulp build;npm start"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/preprocessor.js",
